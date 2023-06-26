@@ -278,10 +278,10 @@ function fase2(){
   }
   
   noFill(0)
-  fill(255,0,0)
+  fill(245,245,220)
   rect(460,320,120,60,20)
   fill(1)
-  text("Vermelho",471,358 )
+  text("Bege",471,358 )
   
   //BOTAO VERMELHO
   if(mouseX > 460 && mouseX < 580 && mouseY > 320 && mouseY < 320+60){
